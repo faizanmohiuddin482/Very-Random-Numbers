@@ -1,0 +1,11 @@
+{
+  "name": "very-random-numbers",
+  "version": "1.0.1",
+  "description": "A random number generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Faizan Mohiuddin",
+  "license": "ISC"
+}

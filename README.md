@@ -4,7 +4,7 @@ A package to generate random numbers.
 
 ## Description
 
-Very-Random-Numbers can be used to generate random numbers between two uder defined values i.e., min and max. 
+Very-Random-Numbers can be used to generate random numbers between two user defined values i.e., min and max. 
 
 ## Getting Started
 
